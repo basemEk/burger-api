@@ -895,6 +895,31 @@
           "country": "The Czech Republic"
         }
       ]
+    },
+    {
+    "id": 28,
+      "name": "The Lebanese Burger, made with love",
+      "restaurant": "snack bassem",
+      "web": "www.snackbasem.lb",
+      "description": "Lebanese, Bar, International, European, Vegetarian Friendly",
+      "ingredients": [
+        "beef",
+        "onion",
+        "tomato slice",
+        "halloumi cheese",
+        "bacon",
+        "lettuce",
+        "jalapinos slices",
+        "debs el remmen dressing"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "11",
+          "postcode": "00961",
+          "country": "Lebanon"
+        }
+      ]
     }
   ]
 }
